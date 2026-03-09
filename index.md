@@ -1,3 +1,6 @@
 ---
-title: Welcome to my blog!
+title: Mona nie niszcz mi życia.
 ---
+
+# Czemu to się
+Tak długo ładuje.
